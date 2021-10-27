@@ -1,0 +1,25 @@
+{
+  "name": "browser-dash",
+  "version": "1.0.0",
+  "description": "Dashboard for web browser home page.",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^9.1.3",
+    "firebase-tools": "^9.21.0",
+    "videojs": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimbuslink/startpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimbuslink/startpage/issues"
+  },
+  "homepage": "https://github.com/nimbuslink/startpage#readme"
+}
